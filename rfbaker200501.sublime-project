@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "C:/Users/Rick/Google Drive/Learning/heroku2/java-getting-started", 
+            "folder_exclude_patterns": [], 
+            "file_exclude_patterns": [
+                "*.*-meta.xml", 
+                "*.sublime-project"
+            ]
+        }
+    ]
+}
