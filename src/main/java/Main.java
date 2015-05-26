@@ -24,7 +24,12 @@ public class Main extends HttpServlet {
     //
     // Under construction
     //
-    resp.getWriter().print("Hello from Java!");
+
+    // *** TEST ***
+    java.io.PrintWriter pw = resp.getWriter();
+    pw.println("*** DEBUG *** Hello World!");
+    pw.println("*** DEBUG *** This is from my heroku2 code base...");
+    pw.println("*** DEBUG *** Go Utes!");
   }
 
   private void showDatabase(HttpServletRequest req, HttpServletResponse resp)
