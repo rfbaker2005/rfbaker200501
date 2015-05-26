@@ -30,6 +30,7 @@ public class Main extends HttpServlet {
     pw.println("*** DEBUG *** Hello World!");
     pw.println("*** DEBUG *** This is from my heroku2 code base...");
     pw.println("*** DEBUG *** Go Utes!");
+    // *** TEST ***
   }
 
   private void showDatabase(HttpServletRequest req, HttpServletResponse resp)
