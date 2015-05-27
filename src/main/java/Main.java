@@ -34,6 +34,7 @@ public class Main extends HttpServlet {
     // *** TEST ***
     java.io.PrintWriter pw = resp.getWriter();
     if (pw != null) {
+      resp.getWriter().println("*** DEBUG *** Pushed this change to the github repo...");
       resp.getWriter().println("*** DEBUG *** Retrieved PrintWriter instance...");
       resp.getWriter().println("*** DEBUG *** Lunched remotely from my heroku/rfbaker200501 folder.");
     } else {
