@@ -91,12 +91,12 @@
 	"expanded_folders":
 	[
 		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501",
-		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501/src",
 		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501/src/main",
 		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501/src/main/java"
 	],
 	"file_history":
 	[
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Rick/Google Drive/Learning/heroku2/java-getting-started/src/main/java/Main.java",
 		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/rfbaker200501.sublime-workspace",
 		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/src/main/java/Main.java",
@@ -194,7 +194,6 @@
 		"/C/Users/Rick/My Dev/Repositories/ctt/docs/Notes.txt",
 		"/C/Program Files/Sublime Text 3/plugin_host.exe",
 		"/C/Users/Rick/My Dev/Repositories/ctt/.config/settings.json",
-		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Rick/My Dev/Repositories/ctt/docs/Dev/Pages/ClientDetails.page",
 		"/C/Users/Rick/My Dev/Repositories/ctt/pro-sublime.sublime-workspace",
 		"/C/Users/Rick/My Dev/Repositories/ctt/src/package.xml",
@@ -320,8 +319,8 @@
 						"selection":
 						[
 							[
-								274,
-								274
+								178,
+								178
 							]
 						],
 						"settings":
@@ -371,6 +370,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.error":
+	{
+		"height": 124.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
