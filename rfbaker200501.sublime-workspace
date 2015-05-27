@@ -1,1 +1,429 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"messaging:htmlEmailBody	vf"
+			],
+			[
+				"prin",
+				"PrintWriter"
+			],
+			[
+				"get",
+				"getRecord()	SObject"
+			],
+			[
+				"re",
+				"relatedList	apex"
+			],
+			[
+				"page",
+				"pageBlockTable	apex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/java/Main.java",
+			"settings":
+			{
+				"buffer_size": 3487,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"new pro",
+				"HaoIDE: New Project"
+			],
+			[
+				"project",
+				"HaoIDE: New Project"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 352.0,
+		"history":
+		[
+			"edit_project --ui",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501/src",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501/src/main",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/rfbaker200501/src/main/java"
+	],
+	"file_history":
+	[
+		"/C/Users/Rick/Google Drive/Learning/heroku2/java-getting-started/src/main/java/Main.java",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/rfbaker200501.sublime-workspace",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/src/main/java/Main.java",
+		"/C/Users/Rick/Google Drive/Learning/heroku2/java-getting-started/rfbaker200501.sublime-project",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/aao/pro-sublime.sublime-project",
+		"/C/Users/Rick/Google Drive/Learning/Salesforce/workspace/rick.baker@rbtraining.com/Training Org-20150517/Training Org.sublime-project",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-settings",
+		"/C/Users/Rick/Google Drive/Learning/heroku2/java-getting-started/Procfile.Windows",
+		"/C/Program Files/Java/apache-maven-3.3.3/bin/m2.conf",
+		"/C/Program Files (x86)/Heroku/bin/heroku.bat",
+		"/C/Program Files (x86)/Heroku/bin/heroku",
+		"/C/Users/Rick/Google Drive/Learning/heroku2/java-getting-started/.git/description",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.git/logs/refs/remotes/origin/HEAD",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.git/logs/refs/remotes/heroku/master",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.git/logs/refs/heads/master",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/index.html",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.git/refs/remotes/heroku/master",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.git/COMMIT_EDITMSG",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.git/objects/45/ae384cd248fca46cf5cd7892aa394cbdd5ec03",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/pom.xml",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/errorLog02.txt",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.env",
+		"/C/OldComputer_1/Learning/SCJP/CodeSamples/PlayGround/Assessment/src/Assess01.java",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/CmdCheats.txt",
+		"/C/Users/Rick/Google Drive/Learning/Heroku/java-getting-started/.env.cls",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/aao/Accurate Acct Outpatient-20150517/src/pages/CustRelList.page",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/aao/Accurate Acct Outpatient-20150517/src/classes/Checkbox.cls",
+		"/C/Users/Rick/Google Drive/Learning/Salesforce/workspace/rick.baker@rbtraining.com/Training Org-20150517/src/classes/MyFirstClass.cls",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Notes.txt",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/toolingapi.sublime-settings",
+		"/C/Users/Rick/Google Drive/Documents/Software Licenses/Sublime Text 3/License Key.txt",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/AAO/Accurate Acct Outpatient-20150517/src/classes/MyClass.cls",
+		"/C/Users/Rick/Google Drive/Learning/Salesforce/workspace/rick.baker@rbtraining.com/pro-sublime.sublime-project",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/AAO/Accurate Acct Outpatient-20150517/src/package.xml",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/aao/pro-sublime.sublime-workspace",
+		"/C/Users/Rick/Google Drive/Learning/Salesforce/workspace/rick.baker@rbtraining.com/rbtraining.sublime-project",
+		"/C/Users/Rick/Google Drive/Learning/Salesforce/rick.baker@devfp1.com/Users&Passwords.txt",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/aao/pro-sublime-20150517/src/classes/MyClass.cls",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/aao/pro-sublime-20150517/src/package.xml",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/aao/pro-sublime-20150517/src/objects/Activity.object",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/salesforce_reference.sublime-settings",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Local/License.sublime_license",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Installed Packages/haoide.sublime-package",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Dev/src/.config/settings.json",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Scratch/Research/MakeCustomRelList.txt",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Dev/pro-sublime.sublime-project",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Scratch/Research/RedirectTabToVFPage.txt.txt",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Scratch/Questions.txt",
+		"/C/Users/Rick/Google Drive/Documents/Dating/Notes.txt",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/To Remember (1)/Leaning/RESTsample/JarFiles/commons-logging-1.0.3/src/overview.html",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/To Remember/HowTo/SourceControl/Setting up a local repository.doc",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/To Remember/HowTo/HowToSortByDifferentCollationOrder.txt",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/Dev/HowTo/MavensMate/HowToPullMoreMetadata.txt",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/To Remember/MavensMate/sample_package.xml",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Work Place/Notes.txt",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/pro-sublime.sublime-project",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/.deploy/package-201505061848.xml",
+		"/C/Users/Rick/Google Drive/Free Lance/AAO/Dev/src/.config/session.json",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150507/src/pages/ClientList.page",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150508/src/pages/ClientList.page",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/.config/settings.json",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414.info",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/notes/Notes01_pages.txt",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/notes/Questions.txt",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/To Remember (1)/Research/EasyPageApp/Directions.txt",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/notes/Scraps01.txt",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150507/src/pages/ClientDetails.page",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150507/src/classes/PgCtrlClientEdit.cls",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150507/src/classes/PgCtrlClientDetails.cls",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150507/src/pages/ClientEdit.page",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/classes/ClientList.cls",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150507/src/classes/PgCtrlClientList.cls",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/combined package.xml",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/pages/ClientList.page",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150507/src/classes/PCClientList.cls",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/classes/PgCtrlClientList.cls",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/Dev/Stuff/Apex/Classes/UpdateAARSubmitterCommmentsX2.txt",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/Dev/Stuff/Apex/Classes/UpdateAARSubmitterCommmentsX.txt",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/pages/ClientDetails.page",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/pages/DansPage.page",
+		"/C/Users/Rick/Google Drive/Documents/Software Licenses/Sublime Text 3/Receipt.txt",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/pages/AccountDetails.page",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/approvalProcesses/Line_Item__c.Approve_Unit_Price_Change.approvalProcess",
+		"/C/Users/Rick/My Dev/Repositories/ctt.orig/.config/settings.json",
+		"/C/Users/Rick/My Dev/Repositories/ctt.orig/pro-sublime.sublime-project",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/objects/Client__c.object",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/package.xml",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/objects/Account.object",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/bz2/st3_windows_x64/_bz2.pyd",
+		"/C/Users/Rick/AppData/Roaming/salesforce.com/Data Loader 32.0.0/config.properties",
+		"/C/Users/Rick/My Dev/Repositories/ctt/pro-sublime.sublime-project",
+		"/C/Users/Rick/My Dev/Repositories/ctt/supporting/Notes.txt",
+		"/C/Users/Rick/My Dev/Repositories/ctt/docs/Notes.txt",
+		"/C/Program Files/Sublime Text 3/plugin_host.exe",
+		"/C/Users/Rick/My Dev/Repositories/ctt/.config/settings.json",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Rick/My Dev/Repositories/ctt/docs/Dev/Pages/ClientDetails.page",
+		"/C/Users/Rick/My Dev/Repositories/ctt/pro-sublime.sublime-workspace",
+		"/C/Users/Rick/My Dev/Repositories/ctt/src/package.xml",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20150506/src/classes/AccountController.cls",
+		"/C/Users/Rick/My Dev/Repositories/ctt/src/ctt.sublime-project",
+		"/C/Users/Rick/My Dev/Repositories/ctt/src/ctt.sublime-workspace",
+		"/C/Users/Rick/My Dev/Repositories/ctt.sublime-project",
+		"/C/Users/Rick/My Dev/Repositories/ctt.sublime-workspace",
+		"/C/Users/Rick/Google Drive/Documents/Work Related/To Remember/Research/EasyPageApp/Directions.txt",
+		"/C/Program Files/Sublime Text 3/haoide-master/salesforce/api/tooling.py",
+		"/C/Program Files/Sublime Text 3/haoide-master/salesforce/api/bulk.py",
+		"/C/Users/Rick/AppData/Local/Temp/wzabec/haoide-master/docs/document.md",
+		"/C/Users/Rick/AppData/Local/Temp/wzd9b0/haoide-master/README.md",
+		"/C/Program Files/Sublime Text 3/Packages/ActionScript.sublime-package",
+		"/C/Users/Rick/AppData/Local/Temp/wz3c39/haoide-master/docs/utilities.md",
+		"/C/Users/Rick/AppData/Local/Temp/wz24c3/haoide-master/docs/deploy.md",
+		"/C/Users/Rick/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Dev/sForce/RelatedCases/RelatedCase.cls",
+		"/C/Dev/sForce/RelatedCases/RelatedCases.cls",
+		"/C/Dev/sForce/RelatedCases/RelatedCasesUT.cls"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Rick\\Google Drive\\Learning\\Heroku\\java-getting-started",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"java",
+			"\"",
+			" ",
+			"      pw.println(\"*** DEBUG *** Retrieved Mass instance...\");\n",
+			"Hello",
+			"ENERGY",
+			"Amount",
+			"ENERGY",
+			"KILOGRAM",
+			"Mass",
+			"Amount",
+			"home",
+			"checkbox",
+			"workspace",
+			"workspoace",
+			"\\",
+			"workspace",
+			"class",
+			"classes",
+			"hao",
+			"rick",
+			"Users",
+			"users",
+			"workspace",
+			"\\",
+			"2015",
+			"HaoIDE/pro-sublime-20150506",
+			"\"/>",
+			" >",
+			"\\",
+			"deploy",
+			"mm_check_for_updates",
+			"project",
+			"password",
+			"roam",
+			"rick",
+			"password",
+			"C:/Users/Rick/My Dev/Repositories/ctt",
+			"C:\\\\Users\\\\Rick\\\\AppData\\\\Roaming\\\\Sublime Text 3\\\\Packages\\\\User\\\\HaoIDE/pro-sublime-20150506",
+			" \"workspace\"",
+			"\\\\",
+			"password",
+			"{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"",
+			"Checkbox",
+			"/",
+			"\" />",
+			">",
+			"/",
+			"C:/Users/Rick/My Dev/Repositories/ctt",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/java/Main.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rfbaker200501.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Rick\\My Dev\\Repositories\\ctt\\pro-sublime.sublime-project"
+			]
+		],
+		"width": 669.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

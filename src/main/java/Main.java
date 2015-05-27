@@ -1,3 +1,8 @@
+import static javax.measure.unit.SI.KILOGRAM;
+import javax.measure.quantity.Mass;
+import org.jscience.physics.model.RelativisticModel;
+import org.jscience.physics.amount.Amount;
+
 import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.http.*;
@@ -21,16 +26,32 @@ public class Main extends HttpServlet {
 
   private void showHome(HttpServletRequest req, HttpServletResponse resp)
       throws ServletException, IOException {
-    //
-    // Under construction
-    //
+    // Energy is compatible with mass (E=mc2)
+    RelativisticModel.select();
+
+    String energy = System.getenv().get("ENERGY");
 
     // *** TEST ***
     java.io.PrintWriter pw = resp.getWriter();
-    pw.println("*** DEBUG *** Hello World!");
-    pw.println("*** DEBUG *** This is from my heroku2 code base...");
-    pw.println("*** DEBUG *** Go Utes!");
+    if (pw != null) {
+      resp.getWriter().println("*** DEBUG *** Retrieved PrintWriter instance...");
+    } else {
+      resp.getWriter().println("*** ERROR *** Could not get PrintWriter object...");
+    }
+
+    if (energy != null) {
+      Amount<Mass> m = Amount.valueOf(energy).to(KILOGRAM);
+      pw.println("*** DEBUG *** Retrieved Mass instance...");
+      pw.println("*** DEBUG *** energy: " + energy);
+      resp.getWriter().println("E=mc^2: 12 GeV = " + m);
+    } else {
+      resp.getWriter().println("*** ERROR *** Could not initialize thre 'engery' variable. Value of 'engery' is: [" + energy + "]");
+    }
     // *** TEST ***
+
+//    Amount<Mass> m = Amount.valueOf(energy).to(KILOGRAM);
+
+//    resp.getWriter().print("E=mc^2: 12 GeV = " + m);
   }
 
   private void showDatabase(HttpServletRequest req, HttpServletResponse resp)
