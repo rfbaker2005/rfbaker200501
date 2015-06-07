@@ -47,7 +47,7 @@ public class Main extends HttpServlet {
       pw.println("*** DEBUG *** energy: " + energy);
       resp.getWriter().println("E=mc^2: 12 GeV = " + m);
     } else {
-      resp.getWriter().println("*** ERROR *** Could not initialize thre 'engery' variable. Value of 'engery' is: [" + energy + "]");
+      resp.getWriter().println("*** ERROR *** Could not initialize the 'engery' variable. Value of 'engery' is: [" + energy + "]");
     }
     // *** TEST ***
 
